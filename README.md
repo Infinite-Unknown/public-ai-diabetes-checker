@@ -1,4 +1,4 @@
-# public-ai-diabetes-checker
+# AI Diabetes Checker :OO
 Public stress testing my app (tomfoolery)
 Heres the active app link:
 https://yourmom.streamlit.app/
