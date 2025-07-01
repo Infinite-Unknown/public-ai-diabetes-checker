@@ -1,5 +1,7 @@
 # public-ai-diabetes-checker
 Public stress testing my app (tomfoolery)
+Heres the active app link:
+https://yourmom.streamlit.app/
 
 # How to use?
 1. Download this file https://github.com/Infinite-Unknown/public-ai-diabetes-checker/blob/main/diabetes.csv
